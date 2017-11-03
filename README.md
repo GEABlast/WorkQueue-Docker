@@ -39,4 +39,5 @@ root@hash:/# cat run0.txt
 ## Specifics
 * CCTools/WorkQueue: version 6.2.2
 * python 2.7 + PIP + Dev
-* python3
+  * Additional packages: psutil
+* python3 + PIP + Dev
